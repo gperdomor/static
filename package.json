@@ -1,0 +1,22 @@
+{
+  "name": "static",
+  "version": "1.0.0",
+  "author": "gperdomor <gperdomor@gmail.com>",
+  "homepage": "https://github.com/gperdomor/static#readme",
+  "license": "MIT",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/gperdomor/static/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gperdomor/static.git"
+  },
+  "scripts": {
+    "generate": "sponsorkit"
+  },
+  "devDependencies": {
+    "@types/node": "22.14.1",
+    "sponsorkit": "16.4.2"
+  }
+}
