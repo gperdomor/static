@@ -94,6 +94,7 @@ export default defineConfig({
     {
       name: "sponsors.part1",
       width: 800,
+      filter: (sponsor) => sponsor.monthlyDollars >= 9.9,
     },
     {
       name: "sponsors.part2",
