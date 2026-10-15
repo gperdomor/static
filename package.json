@@ -16,7 +16,7 @@
     "generate": "sponsorkit"
   },
   "devDependencies": {
-    "@types/node": "26.1.1",
+    "@types/node": "26.6.5",
     "sponsorkit": "18.0.0"
   }
 }
